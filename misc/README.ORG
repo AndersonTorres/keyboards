@@ -1,0 +1,6 @@
+# -*- mode: org; coding: utf-8-unix; fill-column: 75 -*-
+
+#+title: MISC
+
+Este diretório conterá uma miscelânea de arquivos relacionados a teclados
+mecânicos.
